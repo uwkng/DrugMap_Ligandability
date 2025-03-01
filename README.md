@@ -49,10 +49,9 @@ We compared four ML models and one Deep Learning model:
 - Random Forest achieved the highest accuracy (~72%)
 - The Deep Learning model improved accuracy by 7% after optimization
 
-## Dataset & Sources
-**Dataset:** [DrugMap_Ligandability Dataset – Hugging Face](https://huggingface.co/datasets/ymanasa2000/DrugMap_Ligandability)  
-**Content:** Molecular properties for ligandability prediction  
+---
 
+## Sources
 **Key References:**  
 Wellcome Trust, BCG. (2023). Potential time and cost savings through AI usage in drug discovery worldwide as of 2023, by scenario. Statista. Statista Inc.. Accessed: March 01, 2025. https://www.statista.com/statistics/1428349/ai-usage-in-drug-discovery-time-and-cost-savings-worldwide/
 
